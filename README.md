@@ -49,6 +49,10 @@
 - Integrated terminal with per-directory sessions and stable performance on heavy output
 - Built-in skills catalog and local skill management for reusable automation workflows
 
+### Architecture previews
+
+- [ALFA Security Layer Preview](docs/ALFA_SECURITY_LAYER.md) sketches how OpenChamber permissions can bridge to Magic Filters and an ALFA-EOS execution-permission kernel without merging UI permissions, filters, policy, evidence, and SOC projection into one runtime.
+
 ### Web / PWA
 
 - Provider-aware tunnel access model with Cloudflare `quick`, `managed-remote`, and `managed-local` modes
